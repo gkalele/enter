@@ -1,8 +1,8 @@
 module github.com/a8m/enter
 
-go 1.19
+go 1.22
 
-require entgo.io/ent v0.11.10
+require entgo.io/ent v0.13.1
 
 require (
 	ariga.io/atlas v0.10.1 // indirect
